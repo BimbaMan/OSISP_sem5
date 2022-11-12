@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Мои файлы\CPP\OSISP_lab4\OSISP_lab4\main.cpp(74,67): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  OSISP_lab4.vcxproj -> D:\Мои файлы\CPP\OSISP_lab4\x64\Debug\OSISP_lab4.exe

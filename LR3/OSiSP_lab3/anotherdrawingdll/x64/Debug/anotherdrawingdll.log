@@ -1,0 +1,7 @@
+﻿  anotherdrawingdll.cpp
+C:\Users\ksyut\Downloads\OSiSP_lab3\anotherdrawingdll\anotherdrawingdll.cpp(22,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\ksyut\Downloads\OSiSP_lab3\anotherdrawingdll\anotherdrawingdll.cpp(23,29): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\Users\ksyut\Downloads\OSiSP_lab3\x64\Debug\anotherdrawingdll.lib и объект C:\Users\ksyut\Downloads\OSiSP_lab3\x64\Debug\anotherdrawingdll.exp
+  anotherdrawingdll.vcxproj -> C:\Users\ksyut\Downloads\OSiSP_lab3\x64\Debug\anotherdrawingdll.dll

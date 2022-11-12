@@ -1,0 +1,6 @@
+﻿  First.cpp
+C:\Users\Иван\Desktop\Уник\ОСиСП\LR2\lr2\First\First.cpp(280,8): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Иван\Desktop\Уник\ОСиСП\LR2\lr2\First\First.cpp(281,8): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Иван\Desktop\Уник\ОСиСП\LR2\lr2\First\First.cpp(429,81): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Иван\Desktop\Уник\ОСиСП\LR2\lr2\First\First.cpp(429,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  First.vcxproj -> C:\Users\Иван\Desktop\Уник\ОСиСП\LR2\lr2\x64\Debug\First.exe
