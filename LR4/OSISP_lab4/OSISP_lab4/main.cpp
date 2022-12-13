@@ -23,7 +23,7 @@ CRITICAL_SECTION processingCrit;
 
 int main()
 {
-    directoryPath = "D:\\files";
+    directoryPath = ".\\files";
     stringToSearch = "hello";
 
     InitializeCriticalSection(&processingCrit);
