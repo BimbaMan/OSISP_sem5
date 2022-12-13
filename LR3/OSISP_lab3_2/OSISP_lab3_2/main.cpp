@@ -6,7 +6,7 @@
 #include <windowsx.h>
 #include "DllHandler.h"
 
-#define RADIUS 50
+#define RADIUS 75
 
 struct Point
 {

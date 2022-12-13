@@ -1,7 +1,4 @@
-﻿  dllmain.cpp
-  drawingdll.cpp
-C:\Users\ksyut\Downloads\OSiSP_lab3\drawingdll\drawingdll.cpp(20,25): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
-C:\Users\ksyut\Downloads\OSiSP_lab3\drawingdll\drawingdll.cpp(21,25): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
-  Создание кода...
-     Создается библиотека C:\Users\ksyut\Downloads\OSiSP_lab3\x64\Debug\drawingdll.lib и объект C:\Users\ksyut\Downloads\OSiSP_lab3\x64\Debug\drawingdll.exp
-  drawingdll.vcxproj -> C:\Users\ksyut\Downloads\OSiSP_lab3\x64\Debug\drawingdll.dll
+﻿  drawingdll.cpp
+C:\Users\Иван\Desktop\Уник\ОСиСП\LR3\OSiSP_lab3\drawingdll\drawingdll.cpp(21,25): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Иван\Desktop\Уник\ОСиСП\LR3\OSiSP_lab3\drawingdll\drawingdll.cpp(22,25): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+  drawingdll.vcxproj -> C:\Users\Иван\Desktop\Уник\ОСиСП\LR3\OSiSP_lab3\x64\Debug\drawingdll.dll

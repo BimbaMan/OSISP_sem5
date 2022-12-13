@@ -4,11 +4,11 @@
 
 #include <windows.h>
 #include <windowsx.h>
-#include <drawingdll.h> //без another - красненький, с - синенький
+#include <anotherdrawingdll.h> 
 
-#pragma comment(lib, "drawingdll.lib")
+#pragma comment(lib, "anotherdrawingdll.lib")
 
-#define RADIUS 50
+#define RADIUS 75
 
 struct Point
 {
