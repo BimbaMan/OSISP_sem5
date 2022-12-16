@@ -5,6 +5,9 @@
 #include <string>
 #include "ConcurrentList.h"
 
+#define directoryPath ".\\files"
+#define stringToSearch "hello"
+
 struct FileResult
 {
     std::string path;
@@ -13,8 +16,6 @@ struct FileResult
 
 VOID CALLBACK processFileCallback(PTP_CALLBACK_INSTANCE Instance, PVOID Parameter, PTP_WORK Work);
 
-std::string directoryPath;
-std::string stringToSearch;
 ConcurrentList<FileResult&>* list;
 
 volatile long processingCount;
@@ -23,9 +24,6 @@ CRITICAL_SECTION processingCrit;
 
 int main()
 {
-    directoryPath = ".\\files";
-    stringToSearch = "hello";
-
     InitializeCriticalSection(&processingCrit);
     InitializeConditionVariable(&processingVar);
     InterlockedExchange(&processingCount, 0);
